@@ -7,6 +7,7 @@
 // @match        https://lms.synergy.ru/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=synergy.ru
 // @grant        none
+// @downloadURL  https://github.com/darkringfire/user-js/raw/main/synergy.user.js
 // ==/UserScript==
 
 (function($) {
